@@ -13,4 +13,7 @@ dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
     compile group: 'org.apache.kafka', name: 'kafka_2.12', version: '2.3.1'
 
+    compile group: 'org.apache.kafka', name: 'kafka-streams', version: '2.3.0'
+
+
 }
